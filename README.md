@@ -13,7 +13,11 @@ This repository contains a collection of modular C++ programming assignments, sy
 | [`lab05-pointers-and-memory`](./lab05-pointers-and-memory) | Memory addressing, pointer dereferencing, evaluation of call-by-value vs. call-by-pointer parameter passing, dynamic memory allocation (`new[]` / `delete[]`), and structure manipulation. | Pointers (`*`, `&`), Memory Inspection, Parameter Passing Semantics, Dynamic Arrays, Structs |
 | [`lab06-eratosthenes-sieve`](./lab06-eratosthenes-sieve) | Implementation of the Sieve of Eratosthenes algorithm for finding prime numbers smaller than N using CLI arguments and dynamic arrays. | Sieve of Eratosthenes, Dynamic Memory Allocation, CLI Arguments (`argc` / `argv`), Modular Programming |
 | [`lab07-stack-class`](./lab07-stack-class) | Object-Oriented Programming (OOP) implementation of a dynamic LIFO Stack data structure using C++ classes, member initializer lists, and dynamic memory management. | OOP, Classes, Constructors/Destructors, Member Initializer Lists, Encapsulation, Dynamic Array Stack |
+| [`lab08-singleton-pattern`](./lab08-singleton-pattern) | Implementation of the Singleton design pattern demonstrating both Lazy and Eager instantiation approaches in C++. | Design Patterns, Singleton (Lazy & Eager), Static Members, Private Constructors, Encapsulation |
+| [`lab09-doubly-linked-list`](./lab09-doubly-linked-list) | Modular implementation of a Doubly Linked List data structure utilizing sentinel (dummy) head and tail nodes for O(1) front and back insertions. | Data Structures, Doubly Linked List, Sentinel Nodes, Friend Classes, Dynamic Node Allocation, Modular C++ |
 
 ## 🛠️ Tech Stack & Environment
 
-- **Language:** C++ (C++20 Standard
+- **Language:** C++ (C++20 Standard)
+- **Build System:** CMake & Ninja
+- **IDE:** JetBrains CLion
